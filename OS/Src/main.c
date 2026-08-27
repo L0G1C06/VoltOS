@@ -19,6 +19,7 @@
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
 #include "cmsis_os.h"
+#include <stdio.h>
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
@@ -50,6 +51,25 @@ const osThreadAttr_t defaultTask_attributes = {
   .stack_size = 128 * 4,
   .priority = (osPriority_t) osPriorityNormal,
 };
+/* Definitions for SensorTask */
+osThreadId_t SensorTaskHandle;
+const osThreadAttr_t SensorTask_attributes = {
+  .name = "SensorTask",
+  .stack_size = 128 * 4,
+  .priority = (osPriority_t) osPriorityNormal,
+};
+/* Definitions for MonitorTask */
+osThreadId_t MonitorTaskHandle;
+const osThreadAttr_t MonitorTask_attributes = {
+  .name = "MonitorTask",
+  .stack_size = 128 * 4,
+  .priority = (osPriority_t) osPriorityNormal,
+};
+/* Definitions for voltageQueue */
+osMessageQueueId_t voltageQueueHandle;
+const osMessageQueueAttr_t voltageQueue_attributes = {
+  .name = "voltageQueue"
+};
 /* USER CODE BEGIN PV */
 
 /* USER CODE END PV */
@@ -59,6 +79,8 @@ void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
 static void MX_USART2_UART_Init(void);
 void StartDefaultTask(void *argument);
+void StartSensorTask(void *argument);
+void StartMonitorTask(void *argument);
 
 /* USER CODE BEGIN PFP */
 
@@ -118,6 +140,10 @@ int main(void)
   /* start timers, add new ones, ... */
   /* USER CODE END RTOS_TIMERS */
 
+  /* Create the queue(s) */
+  /* creation of voltageQueue */
+  voltageQueueHandle = osMessageQueueNew (4, sizeof(float), &voltageQueue_attributes);
+
   /* USER CODE BEGIN RTOS_QUEUES */
   /* add queues, ... */
   /* USER CODE END RTOS_QUEUES */
@@ -125,6 +151,12 @@ int main(void)
   /* Create the thread(s) */
   /* creation of defaultTask */
   defaultTaskHandle = osThreadNew(StartDefaultTask, NULL, &defaultTask_attributes);
+
+  /* creation of SensorTask */
+  SensorTaskHandle = osThreadNew(StartSensorTask, NULL, &SensorTask_attributes);
+
+  /* creation of MonitorTask */
+  MonitorTaskHandle = osThreadNew(StartMonitorTask, NULL, &MonitorTask_attributes);
 
   /* USER CODE BEGIN RTOS_THREADS */
   /* add threads, ... */
@@ -298,6 +330,76 @@ void StartDefaultTask(void *argument)
     osDelay(500);
   }
   /* USER CODE END 5 */
+}
+
+/* USER CODE BEGIN Header_StartSensorTask */
+/**
+* @brief Function implementing the SensorTask thread.
+* @param argument: Not used
+* @retval None
+*/
+/* USER CODE END Header_StartSensorTask */
+void StartSensorTask(void *argument)
+{
+    uint32_t voltage = 4820;
+
+    for (;;)
+    {
+        osMessageQueuePut(
+            voltageQueueHandle,
+            &voltage,
+            0,
+            0
+        );
+
+        voltage += 10;
+
+        if (voltage > 4850)
+        {
+            voltage = 4800;
+        }
+
+        osDelay(1000);
+    }
+}
+
+/* USER CODE BEGIN Header_StartMonitorTask */
+/**
+* @brief Function implementing the MonitorTask thread.
+* @param argument: Not used
+* @retval None
+*/
+/* USER CODE END Header_StartMonitorTask */
+void StartMonitorTask(void *argument)
+{
+    uint32_t voltage;
+    char message[64];
+
+    for (;;)
+    {
+        if (osMessageQueueGet(
+                voltageQueueHandle,
+                &voltage,
+                NULL,
+                osWaitForever
+            ) == osOK)
+        {
+            int length = snprintf(
+                message,
+                sizeof(message),
+                "[Monitor] Voltage: %lu.%02lu V\r\n",
+                voltage / 100,
+                voltage % 100
+            );
+
+            HAL_UART_Transmit(
+                &huart2,
+                (uint8_t *)message,
+                length,
+                HAL_MAX_DELAY
+            );
+        }
+    }
 }
 
 /**
