@@ -3,4 +3,4 @@
 ../Src/main.c:204:13:MX_USART2_UART_Init	2
 ../Src/main.c:237:13:MX_GPIO_Init	1
 ../Src/main.c:282:6:StartDefaultTask	1
-../Src/main.c:297:6:Error_Handler	1
+../Src/main.c:307:6:Error_Handler	1

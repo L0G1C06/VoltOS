@@ -285,7 +285,17 @@ void StartDefaultTask(void *argument)
   /* Infinite loop */
   for(;;)
   {
-    osDelay(1);
+    HAL_GPIO_TogglePin(LD2_GPIO_Port, LD2_Pin);
+
+    const char message[] = "Task executando\r\n";
+
+    HAL_UART_Transmit(
+    		&huart2,
+            (uint8_t *)message,
+            sizeof(message) - 1,
+            HAL_MAX_DELAY
+    );
+    osDelay(500);
   }
   /* USER CODE END 5 */
 }

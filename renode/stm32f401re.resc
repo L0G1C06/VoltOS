@@ -1,0 +1,7 @@
+mach create "VoltOS"
+
+machine LoadPlatformDescription @stm32f401re.repl
+
+sysbus LoadELF @../OS/Debug/OS.elf
+
+start
