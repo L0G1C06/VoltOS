@@ -4,4 +4,6 @@ machine LoadPlatformDescription @stm32f401re.repl
 
 sysbus LoadELF @../OS/Debug/OS.elf
 
+usart2 CreateFileBackend @uart.log true
+
 start
