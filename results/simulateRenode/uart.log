@@ -1,0 +1,2706 @@
+
+================================
+           VoltOS BMS
+================================
+[SYSTEM] Initializing...
+[SYSTEM] Sensor simulation: ENABLED
+[SYSTEM] Fault injection: ENABLED
+[SYSTEM] Automatic fault cycle: ENABLED
+================================
+
+[FAULT] --------------------------------
+[FAULT] Injection state: NORMAL
+[FAULT] Sensor simulation running normally
+[FAULT] --------------------------------
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.10 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 79.99 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.20 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 79.98 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.30 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 79.97 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.40 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 79.96 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.50 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 79.95 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.60 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 79.94 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.70 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 79.93 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.80 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 79.92 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.90 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 79.91 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.00 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 79.90 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.10 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 79.89 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.20 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 79.88 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.30 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 79.87 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.40 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 79.86 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.50 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 79.85 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.60 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 79.84 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.70 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 79.83 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.80 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 79.82 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.90 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 79.81 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 50.00 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 79.80 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+[FAULT] ################################
+[FAULT] FAULT INJECTION ACTIVE
+[FAULT] Type: OVERVOLTAGE
+[FAULT] ################
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 55.00 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 79.79 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERVOLTAGE
+[BMS] !!! OVERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 55.00 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 79.78 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERVOLTAGE
+[BMS] !!! OVERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 55.00 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 79.77 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERVOLTAGE
+[BMS] !!! OVERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 55.00 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 79.76 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERVOLTAGE
+[BMS] !!! OVERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 55.00 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 79.75 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERVOLTAGE
+[BMS] !!! OVERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 55.00 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 79.74 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERVOLTAGE
+[BMS] !!! OVERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 55.00 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 79.73 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERVOLTAGE
+[BMS] !!! OVERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 55.00 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 79.72 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERVOLTAGE
+[BMS] !!! OVERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 55.00 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 79.71 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERVOLTAGE
+[BMS] !!! OVERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 55.00 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 79.70 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERVOLTAGE
+[BMS] !!! OVERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+[FAULT] Fault injection removed
+[FAULT] Returning to real sensor simulation
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.00 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 79.69 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.10 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 79.68 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.20 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 79.67 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.30 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 79.66 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.40 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 79.65 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.50 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 79.64 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.60 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 79.63 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.70 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 79.62 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.80 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 79.61 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.90 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 79.60 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 50.00 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 79.59 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.00 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 79.58 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.10 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 79.57 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.20 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 79.56 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.30 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 79.55 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.40 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 79.54 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.50 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 79.53 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.60 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 79.52 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.70 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 79.51 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.80 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 79.50 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+[FAULT] --------------------------------
+[FAULT] Injection state: NORMAL
+[FAULT] Sensor simulation running normally
+[FAULT] --------------------------------
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.90 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 79.49 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.00 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 79.48 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.10 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 79.47 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.20 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 79.46 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.30 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 79.45 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.40 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 79.44 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.50 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 79.43 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.60 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 79.42 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.70 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 79.41 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.80 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 79.40 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.90 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 79.39 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 50.00 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 79.38 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.00 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 79.37 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.10 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 79.36 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.20 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 79.35 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.30 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 79.34 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.40 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 79.33 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.50 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 79.32 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.60 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 79.31 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.70 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 79.30 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+[FAULT] ################################
+[FAULT] FAULT INJECTION ACTIVE
+[FAULT] Type: UNDERVOLTAGE
+[FAULT] ###############
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 39.00 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 79.29 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: UNDERVOLTAGE
+[BMS] !!! UNDERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 39.00 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 79.28 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: UNDERVOLTAGE
+[BMS] !!! UNDERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 39.00 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 79.27 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: UNDERVOLTAGE
+[BMS] !!! UNDERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 39.00 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 79.26 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: UNDERVOLTAGE
+[BMS] !!! UNDERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 39.00 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 79.25 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: UNDERVOLTAGE
+[BMS] !!! UNDERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 39.00 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 79.24 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: UNDERVOLTAGE
+[BMS] !!! UNDERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 39.00 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 79.23 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: UNDERVOLTAGE
+[BMS] !!! UNDERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 39.00 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 79.22 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: UNDERVOLTAGE
+[BMS] !!! UNDERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 39.00 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 79.21 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: UNDERVOLTAGE
+[BMS] !!! UNDERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 39.00 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 79.20 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: UNDERVOLTAGE
+[BMS] !!! UNDERVOLTAGE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+[FAULT] Fault injection removed
+[FAULT] Returning to real sensor simulation
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.80 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 79.19 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.90 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 79.18 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 50.00 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 79.17 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.00 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 79.16 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.10 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 79.15 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.20 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 79.14 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.30 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 79.13 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.40 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 79.12 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.50 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 79.11 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.60 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 79.10 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.70 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 79.09 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.80 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 79.08 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.90 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 79.07 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.00 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 79.06 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.10 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 79.05 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.20 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 79.04 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.30 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 79.03 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.40 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 79.02 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.50 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 79.01 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.60 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 79.00 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+[FAULT] --------------------------------
+[FAULT] Injection state: NORMAL
+[FAULT] Sensor simulation running normally
+[FAULT] --------------------------------
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.70 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 78.99 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.80 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 78.98 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.90 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 78.97 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 50.00 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 78.96 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.00 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 78.95 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.10 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 78.94 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.20 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 78.93 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.30 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 78.92 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.40 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 78.91 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.50 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 78.90 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.60 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 78.89 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.70 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 78.88 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.80 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 78.87 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.90 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 78.86 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.00 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 78.85 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.10 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 78.84 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.20 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 78.83 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.30 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 78.82 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.40 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 78.81 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.50 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 78.80 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+[FAULT] ################################
+[FAULT] FAULT INJECTION ACTIVE
+[FAULT] Type: OVERCURRENT
+[FAULT] ################
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.60 V
+[BMS] Current: 25.00 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 78.79 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERCURRENT
+[BMS] !!! OVERCURRENT !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.70 V
+[BMS] Current: 25.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 78.78 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERCURRENT
+[BMS] !!! OVERCURRENT !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.80 V
+[BMS] Current: 25.00 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 78.77 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERCURRENT
+[BMS] !!! OVERCURRENT !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.90 V
+[BMS] Current: 25.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 78.76 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERCURRENT
+[BMS] !!! OVERCURRENT !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 50.00 V
+[BMS] Current: 25.00 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 78.75 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERCURRENT
+[BMS] !!! OVERCURRENT !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.00 V
+[BMS] Current: 25.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 78.74 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERCURRENT
+[BMS] !!! OVERCURRENT !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.10 V
+[BMS] Current: 25.00 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 78.73 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERCURRENT
+[BMS] !!! OVERCURRENT !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.20 V
+[BMS] Current: 25.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 78.72 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERCURRENT
+[BMS] !!! OVERCURRENT !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.30 V
+[BMS] Current: 25.00 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 78.71 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERCURRENT
+[BMS] !!! OVERCURRENT !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.40 V
+[BMS] Current: 25.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 78.70 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVERCURRENT
+[BMS] !!! OVERCURRENT !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+[FAULT] Fault injection removed
+[FAULT] Returning to real sensor simulation
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.50 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 78.69 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.60 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 78.68 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.70 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 78.67 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.80 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 78.66 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.90 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 78.65 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.00 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 78.64 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.10 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 78.63 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.20 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 78.62 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.30 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 78.61 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.40 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 78.60 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.50 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 78.59 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.60 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 78.58 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.70 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 78.57 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.80 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 78.56 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.90 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 78.55 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 50.00 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 78.54 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.00 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 78.53 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.10 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 78.52 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.20 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 78.51 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.30 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 78.50 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+[FAULT] --------------------------------
+[FAULT] Injection state: NORMAL
+[FAULT] Sensor simulation running normally
+[FAULT] --------------------------------
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.40 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 78.49 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.50 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 78.48 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.60 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 78.47 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.70 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 78.46 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.80 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 78.45 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.90 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 78.44 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.00 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 78.43 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.10 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 78.42 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.20 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 78.41 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.30 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 78.40 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.40 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 78.39 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.50 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 78.38 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.60 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 78.37 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.70 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 78.36 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.80 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 78.35 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.90 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 78.34 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 50.00 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 78.33 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.00 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 78.32 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.10 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 78.31 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.20 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 78.30 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+[FAULT] ################################
+[FAULT] FAULT INJECTION ACTIVE
+[FAULT] Type: OVER TEMPERATURE
+[FAULT] ###########
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.30 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 65.00 C
+[BMS] SOC: 78.29 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVER TEMPERATURE
+[BMS] !!! OVER TEMPERATURE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.40 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 65.00 C
+[BMS] SOC: 78.28 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVER TEMPERATURE
+[BMS] !!! OVER TEMPERATURE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.50 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 65.00 C
+[BMS] SOC: 78.27 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVER TEMPERATURE
+[BMS] !!! OVER TEMPERATURE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.60 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 65.00 C
+[BMS] SOC: 78.26 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVER TEMPERATURE
+[BMS] !!! OVER TEMPERATURE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.70 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 65.00 C
+[BMS] SOC: 78.25 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVER TEMPERATURE
+[BMS] !!! OVER TEMPERATURE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.80 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 65.00 C
+[BMS] SOC: 78.24 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVER TEMPERATURE
+[BMS] !!! OVER TEMPERATURE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.90 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 65.00 C
+[BMS] SOC: 78.23 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVER TEMPERATURE
+[BMS] !!! OVER TEMPERATURE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.00 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 65.00 C
+[BMS] SOC: 78.22 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVER TEMPERATURE
+[BMS] !!! OVER TEMPERATURE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.10 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 65.00 C
+[BMS] SOC: 78.21 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVER TEMPERATURE
+[BMS] !!! OVER TEMPERATURE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.20 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 65.00 C
+[BMS] SOC: 78.20 %
+[BMS] Status: CRITICAL
+[BMS] Injected Fault: OVER TEMPERATURE
+[BMS] !!! OVER TEMPERATURE !!!
+[BMS] !!! CRITICAL CONDITION !!!
+[BMS] !!! SAFETY RESPONSE ACTIVE !!!
+================================
+
+[FAULT] Fault injection removed
+[FAULT] Returning to real sensor simulation
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.30 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 78.19 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.40 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 78.18 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.50 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 78.17 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.60 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 78.16 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.70 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 78.15 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.80 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 78.14 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.90 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 78.13 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 50.00 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 78.12 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.00 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 78.11 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.10 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 78.10 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.20 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 78.09 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.30 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 78.08 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.40 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 78.07 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.50 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 78.06 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.60 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 78.05 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.70 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 78.04 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.80 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 78.03 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.90 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 78.02 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.00 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 78.01 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.10 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 78.00 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+[FAULT] --------------------------------
+[FAULT] Injection state: NORMAL
+[FAULT] Sensor simulation running normally
+[FAULT] --------------------------------
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.20 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 77.99 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.30 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 77.98 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.40 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 77.97 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.50 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 77.96 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.60 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 77.95 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.70 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 77.94 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.80 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 77.93 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.90 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 77.92 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 50.00 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 77.91 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.00 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 77.90 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.10 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 77.89 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.20 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 77.88 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.30 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 77.87 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.40 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 77.86 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.50 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 77.85 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.60 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 77.84 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.70 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 77.83 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.80 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 77.82 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 48.90 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 77.81 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.00 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 30.00 C
+[BMS] SOC: 77.80 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+[FAULT] --------------------------------
+[FAULT] Injection state: NORMAL
+[FAULT] Sensor simulation running normally
+[FAULT] --------------------------------
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.10 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 30.50 C
+[BMS] SOC: 77.79 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.20 V
+[BMS] Current: 11.00 A
+[BMS] Temperature: 31.00 C
+[BMS] SOC: 77.78 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.30 V
+[BMS] Current: 11.50 A
+[BMS] Temperature: 31.50 C
+[BMS] SOC: 77.77 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.40 V
+[BMS] Current: 8.00 A
+[BMS] Temperature: 32.00 C
+[BMS] SOC: 77.76 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.50 V
+[BMS] Current: 8.50 A
+[BMS] Temperature: 32.50 C
+[BMS] SOC: 77.75 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.60 V
+[BMS] Current: 9.00 A
+[BMS] Temperature: 33.00 C
+[BMS] SOC: 77.74 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.70 V
+[BMS] Current: 9.50 A
+[BMS] Temperature: 33.50 C
+[BMS] SOC: 77.73 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.80 V
+[BMS] Current: 10.00 A
+[BMS] Temperature: 34.00 C
+[BMS] SOC: 77.72 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
+
+================================
+           VoltOS BMS
+================================
+[BMS] Voltage: 49.90 V
+[BMS] Current: 10.50 A
+[BMS] Temperature: 34.50 C
+[BMS] SOC: 77.71 %
+[BMS] Status: NORMAL
+[BMS] Injected Fault: NONE
+================================
