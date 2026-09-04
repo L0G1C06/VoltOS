@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "author": "VoltOS",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-st-nucleo-c031c6", "id": "nucleo", "top": 0, "left": 0, "attrs": {} },
+    {
+      "type": "wokwi-led",
+      "id": "led_ov",
+      "top": 102,
+      "left": 301.4,
+      "attrs": { "color": "red" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "res_ov",
+      "top": 100,
+      "left": 220,
+      "attrs": { "value": "330" }
+    },
+    { "type": "wokwi-led", "id": "led_uv", "top": 150, "left": 300, "attrs": { "color": "blue" } },
+    {
+      "type": "wokwi-resistor",
+      "id": "res_uv",
+      "top": 150,
+      "left": 220,
+      "attrs": { "value": "330" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led_oc",
+      "top": 200,
+      "left": 300,
+      "attrs": { "color": "orange" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "res_oc",
+      "top": 200,
+      "left": 220,
+      "attrs": { "value": "330" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led_ot",
+      "top": 250,
+      "left": 300,
+      "attrs": { "color": "purple" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "res_ot",
+      "top": 250,
+      "left": 220,
+      "attrs": { "value": "330" }
+    }
+  ],
+  "connections": [
+    [ "$serialMonitor:TX", "nucleo:PA3", "", [] ],
+    [ "$serialMonitor:RX", "nucleo:PA2", "", [] ],
+    [ "nucleo:PB0", "res_ov:1", "green", [] ],
+    [ "res_ov:2", "led_ov:A", "green", [] ],
+    [ "led_ov:C", "nucleo:GND", "black", [] ],
+    [ "nucleo:PB1", "res_uv:1", "green", [] ],
+    [ "res_uv:2", "led_uv:A", "green", [] ],
+    [ "led_uv:C", "nucleo:GND", "black", [] ],
+    [ "nucleo:PB2", "res_oc:1", "green", [] ],
+    [ "res_oc:2", "led_oc:A", "green", [] ],
+    [ "led_oc:C", "nucleo:GND", "black", [] ],
+    [ "nucleo:PB3", "res_ot:1", "green", [] ],
+    [ "res_ot:2", "led_ot:A", "green", [] ],
+    [ "led_ot:C", "nucleo:GND", "black", [] ]
+  ],
+  "dependencies": {}
+}
